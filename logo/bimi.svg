@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25200" height="25200" viewBox="0 0 25200 25200" version="1.2" baseProfile="tiny-ps">
+<title>BlueRaft</title>
+<rect x="0" y="0" width="25200" height="25200" fill="#fff"></rect>
+<g>
+    <path d="M8231.851,19397.624l-6030.539,5797.727l21276.789,0l-15246.25,-5797.727Z" fill="url(#_Linear1)"></path>
+    <path d="M22360.108,19225.686l-12709.532,4750.868l-2176.162,-22150.332l14885.693,17399.464Z" fill="#0077b6"></path>
+    <path d="M9237.598,19792.365l411.401,4174.469" fill="none" stroke="#fff" stroke-opacity="0.5" stroke-width="84.86px"></path>
+    <path d="M9656.273,23974.714l5330.332,-1995.635" fill="none" stroke="#fff" stroke-opacity="0.5" stroke-width="77.28px"></path>
+</g>
+<defs>
+    <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="-0.053" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6637.011458,-2245.558609,-2023.843399,-7364.106446,4385.327587,24623.691105)">
+        <stop offset="0" stop-color="#0077b6" stop-opacity="1"></stop>
+        <stop offset="1" stop-color="#023e8a" stop-opacity="1"></stop>
+    </linearGradient>
+</defs>
+</svg>
